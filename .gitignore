@@ -6,7 +6,7 @@ node_modules
 
 *.js
 *.png
-*.svg
+# *.svg
 *.json
 *.jpg
 # *.pug
