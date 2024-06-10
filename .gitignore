@@ -15,7 +15,7 @@ dev-data/img
 routes
 utils
 views
-*.css
+# *.css
 
 # public\img
 
