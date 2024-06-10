@@ -5,16 +5,15 @@ node_modules
 .parcel-cache/
 
 *.js
-*.img
 *.png
 *.svg
 *.json
 *.jpg
-*.pug
+# *.pug
 dev-data/img
 routes
 utils
-views
+# views
 # *.css
 
 # public\img
