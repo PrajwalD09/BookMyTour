@@ -1,0 +1,26 @@
+node_modules
+*.env
+.DS_Store
+.cache/
+.parcel-cache/
+
+*.js
+*.img
+*.png
+*.svg
+*.json
+*.jpg
+*.pug
+dev-data/img
+routes
+utils
+views
+*.css
+
+# public\img
+
+public/img/users
+public/img/tours
+public/img
+
+publicg
