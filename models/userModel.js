@@ -52,25 +52,25 @@ const userSchema = new mongoose.Schema({
 });
 
 // Password encryption middle wares
-// userSchema.pre('save', async function(next) {
-//   if (!this.isModified('password')) {
-//     return next();
-//   }
+userSchema.pre('save', async function(next) {
+  if (!this.isModified('password')) {
+    return next();
+  }
 
-//   this.password = await bcrypt.hash(this.password, 12);
-//   this.passwordConfirm = undefined;
+  this.password = await bcrypt.hash(this.password, 12);
+  this.passwordConfirm = undefined;
 
-//   // console.log('password modified');
+  // console.log('password modified');
 
-//   next();
-// });
+  next();
+});
 
-// userSchema.pre('save', function(next) {
-//   if (!this.isModified('password') || this.isNew) return next();
+userSchema.pre('save', function(next) {
+  if (!this.isModified('password') || this.isNew) return next();
 
-//   this.passwordChangedAt = Date.now() - 1000;
-//   next();
-// });
+  this.passwordChangedAt = Date.now() - 1000;
+  next();
+});
 
 userSchema.pre(/^find/, function(next) {
   this.find({ active: { $ne: false } });

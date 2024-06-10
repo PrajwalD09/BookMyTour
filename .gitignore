@@ -10,6 +10,7 @@ node_modules
 # *.json
 *.jpg
 # *.pug
+dev-data
 dev-data/img
 # routes
 # utils
