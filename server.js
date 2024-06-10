@@ -28,7 +28,7 @@ mongoose
   })
   .then(con => {
     console.log('ATLAS DATABASE - Connected successfully');
-    console.log(con.connections);
+    // console.log(con.connections);
   })
   .catch(err => console.log('DB connection error:', err));
 
