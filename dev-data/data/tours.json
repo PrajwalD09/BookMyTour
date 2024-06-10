@@ -1,0 +1,383 @@
+[
+  {
+    "startLocation": {
+      "description": "Karwar, Karnataka",
+      "type": "Point",
+      "coordinates": [74.133382, 14.807276],
+      "address": "Karwar, Karnataka"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "images": ["tour-2-1.jpg", "tour-2-2.jpg", "tour-2-3.jpg"],
+    "startDates": [
+      "2024-07-20T09:00:00.000Z",
+      "2024-08-18T09:00:00.000Z",
+      "2024-06-19T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2955",
+    "name": "Exploring Karwar",
+    "duration": 6,
+    "maxGroupSize": 15,
+    "difficulty": "medium",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
+    "price": 1500,
+    "summary": "Exploring the jaw-dropping beaches and breathtaking hills",
+    "description": "Welcome to Karwar, a coastal paradise that rivals the charm of Goa with its jaw-dropping beaches and breathtaking hills. As you step into this mesmerizing destination, adventure beckons at every turn. Dive into the azure waters for thrilling water sports, or lace up your hiking boots to conquer the peaks that offer panoramic views of the stunning coastline. \nYour journey begins at Guddehalli, a hidden gem nestled amidst lush hills and overlooking the majestic Arabian Sea. Here, you'll find tranquility amidst nature's bounty, making it an ideal spot for hiking enthusiasts and nature lovers. The nearby Rabindranath Tagore Beach and Tilmathi Beach beckon with their pristine sands and crystal-clear waters, perfect for a leisurely stroll or a refreshing dip. \nFor a luxurious retreat, the Devbagh Beach Resort awaits, offering unparalleled views of the sun-kissed beaches and azure waters. Indulge in delectable seafood delicacies at renowned restaurants like Amrut, Udupi Hotel, Ajivi Ocean Restaurant, and Poornima Pure Veg Hotel, where each bite is a culinary delight crafted from the freshest ingredients sourced from the bountiful sea.",
+    "imageCover": "tour-2-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2959",
+        "description": "Naval Beach Karwar",
+        "type": "Point",
+        "coordinates": [74.157039, 14.757614],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2958",
+        "description": "Guddehalli",
+        "type": "Point",
+        "coordinates": [74.159621, 14.790086],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2957",
+        "description": "Rabindranath Tagore Beach",
+        "type": "Point",
+        "coordinates": [74.126564, 14.810203],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2956",
+        "description": "Tilmathi Beach",
+        "type": "Point",
+        "coordinates": [74.0891, 14.899787],
+        "day": 5
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Chennai, Tamil Nadu",
+      "type": "Point",
+      "coordinates": [80.27147804880425, 13.098305897278447],
+      "address": "Chennai, Tamil Nadu"
+    },
+    "ratingsAverage": 5,
+    "ratingsQuantity": 9,
+    "images": ["tour-1-1.jpg", "tour-1-2.jpg", "tour-1-3.jpg"],
+    "startDates": [
+      "2024-04-25T09:00:00.000Z",
+      "2024-06-20T09:00:00.000Z",
+      "2024-08-05T09:00:00.000Z",
+      "2024-10-05T09:00:00.000Z",
+      "2024-12-05T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2951",
+    "name": "Experience Chennai",
+    "duration": 5,
+    "maxGroupSize": 25,
+    "difficulty": "easy",
+    "guides": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a1f292f8fb814b56fa184"
+    ],
+    "price": 2699,
+    "summary": "Experience the diverse culture of Chennai",
+    "description": "Discover the vibrant city of Chennai, where history, culture, and natural beauty converge to create an unforgettable travel experience. Begin your journey at Marina Beach, one of the longest urban beaches in the world, stretching along the Bay of Bengal. This iconic beach is a hub of activity, offering morning jogs, yoga sessions, cricket matches, and kite flying. Stroll along the promenade, sample delicious local snacks, and watch the fishermen at work as you immerse yourself in the lively atmosphere. The golden sands and crashing waves provide a picturesque backdrop for both relaxation and recreation. Next, delve into Chennai's rich cultural heritage with a visit to the Kapaleeshwarar Temple, an architectural marvel dedicated to Lord Shiva. This ancient temple, with its towering gopuram adorned with intricate carvings and vibrant colors, is a testament to Dravidian architecture. The bustling courtyard, filled with the scent of jasmine and the sound of devotional songs, offers a spiritual retreat in the heart of the city.\nContinue your cultural exploration at Fort St. George, the first English fortress in India, now housing the Tamil Nadu Legislative Assembly and the Fort Museum. The museum's impressive collection of artifacts, including colonial-era relics, weaponry, and documents, provides a fascinating glimpse into Chennai's colonial past. Venture into the world of art, history, and science at the Government Museum, one of India's oldest museums. This expansive museum boasts diverse exhibits ranging from ancient sculptures and archaeological finds to modern art and natural history specimens. Finally, escape the urban hustle at Guindy National Park, a lush green oasis home to a variety of flora and fauna. As one of the few national parks within a city, Guindy offers a unique opportunity to experience wildlife and nature up close. Whether you're exploring nature trails, visiting the children's park and snake park, or enjoying a peaceful picnic, Guindy National Park provides a refreshing and rejuvenating experience. Chennai's multifaceted attractions promise an engaging and memorable journey through one of India's most dynamic cities.",
+    "imageCover": "tour-1-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2954",
+        "description": "Marina Beach",
+        "type": "Point",
+        "coordinates": [80.283596, 13.050328],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2953",
+        "description": "Kapaleeshwarar Temple",
+        "type": "Point",
+        "coordinates": [80.2689, 13.033608],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2952",
+        "description": "Government Museum",
+        "type": "Point",
+        "coordinates": [80.256871, 13.069476],
+        "day": 5
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2958",
+        "description": "Fort St. George",
+        "type": "Point",
+        "coordinates": [80.287785, 13.080247],
+        "day": 8
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2950",
+        "description": "Guindy National Park",
+        "type": "Point",
+        "coordinates": [80.237993, 13.004723],
+        "day": 10
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Gulmarg, kashmir",
+      "type": "Point",
+      "coordinates": [74.41415393692243, 34.01183283027453],
+      "address": "Gulmarg, Kashmir"
+    },
+    "ratingsAverage": 4.5,
+    "ratingsQuantity": 6,
+    "images": ["tour-3-1.jpg", "tour-3-2.jpg", "tour-3-3.jpg"],
+    "startDates": [
+      "2024-01-05T10:00:00.000Z",
+      "2024-02-12T10:00:00.000Z",
+      "2025-01-06T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c295a",
+    "name": "Snowy Kashmir",
+    "duration": 4,
+    "maxGroupSize": 10,
+    "difficulty": "difficult",
+    "guides": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a1f4e2f8fb814b56fa185"
+    ],
+    "price": 2500,
+    "summary": "Exciting adventure in the snow with snowboarding and skiing",
+    "description": "SNestled in the majestic Himalayas, the Indian Institute of Skiing & Mountaineering (IISM) in Gulmarg, Jammu and Kashmir, offers unparalleled opportunities for adventure seekers and mountaineering enthusiasts. With its state-of-the-art facilities and expert instructors, IISM provides comprehensive training in skiing, mountaineering, and snowboarding against the backdrop of breathtaking mountain vistas. The serene surroundings and crisp mountain air create the perfect environment for honing skills and pushing limits, making IISM a paradise for those seeking both adventure and skill development.\n In contrast, Chanchmarg, located in the Pir Panjal Range of Jammu and Kashmir, is a picturesque hill station renowned for its lush meadows, vibrant flowers, and panoramic views of snow-capped peaks. This tranquil retreat offers solace amidst verdant valleys and cascading streams, making it a haven for nature lovers, trekkers, and photographers alike. The cool mountain breeze and stunning vistas make Chanchmarg an ideal escape from city life, promising a rejuvenating experience in the lap of nature.",
+    "imageCover": "tour-3-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c295c",
+        "description": "Indian Institute of Skiing & Mountaineering",
+        "type": "Point",
+        "coordinates": [74.384328, 34.057284],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295b",
+        "description": "Chanchmarg",
+        "type": "Point",
+        "coordinates": [74.77908405471312, 33.70985420852523],
+        "day": 2
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "God's Own Country",
+      "type": "Point",
+      "coordinates": [76.19871313650842, 10.37125654640097],
+      "address": "Kerala"
+    },
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 7,
+    "images": ["tour-5-1.jpg", "tour-5-2.jpg", "tour-5-3.jpg"],
+    "startDates": [
+      "2024-08-05T09:00:00.000Z",
+      "2025-03-20T10:00:00.000Z",
+      "2025-05-12T09:00:00.000Z",
+      "2025-10-12T09:00:00.000Z",
+      "2025-11-12T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2961",
+    "name": "God's Own Country",
+    "duration": 10,
+    "maxGroupSize": 15,
+    "difficulty": "medium",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a201e2f8fb814b56fa186"
+    ],
+    "price": 1497,
+    "summary": "Explore the immense grenary of Kerala",
+    "description": "Kerala, known as 'God's Own Country,' offers a mesmerizing blend of serene landscapes, cultural richness, and vibrant traditions. Begin your journey in Munnar, a picturesque hill station nestled in the Western Ghats. Munnar's rolling tea plantations, mist-covered hills, and diverse wildlife make it a haven for nature lovers and adventure enthusiasts. Wander through verdant tea gardens, visit the Eravikulam National Park to spot the endangered Nilgiri Tahr, and marvel at the panoramic views from the Top Station. The cool climate and lush greenery provide a refreshing escape from the hustle and bustle of city life, making Munnar a perfect starting point for your Kerala tour.\nNext, head to Kochi (Cochin), a vibrant port city that seamlessly blends history and modernity. Explore the charming streets of Fort Kochi, lined with colonial buildings, art galleries, and quaint cafes. The iconic Chinese fishing nets, the stunning Mattancherry Palace, and the Jewish Synagogue offer glimpses into Kochi's rich cultural tapestry. A visit to the bustling spice markets and a leisurely cruise through the serene backwaters will leave you enchanted by Kochi's unique charm. Moving on to Wayanad, you'll discover a land of enchanting waterfalls, ancient caves, and lush forests. Visit the Edakkal Caves to see prehistoric rock engravings, trek to the breathtaking Meenmutty Falls, and enjoy the serene beauty of Pookode Lake.\nContinue your journey to Varkala, a coastal town renowned for its stunning cliffs and pristine beaches. The Varkala Cliff, with its red laterite formations and panoramic views of the Arabian Sea, is perfect for a relaxing stroll. Enjoy sunbathing on Varkala Beach, take a dip in the mineral-rich waters, and visit the ancient Janardanaswamy Temple for a spiritual experience. Conclude your Kerala adventure in Thrissur, the cultural capital of the state. Known for its vibrant festivals, including the famous Thrissur Pooram, this city is a treasure trove of traditional art and culture. Visit the Vadakkunnathan Temple, explore the Thrissur Zoo and Museum, and soak in the cultural vibrancy at the Kerala Kalamandalam. From the lush hills of Munnar to the historic charm of Kochi, the serene beauty of Wayanad, the coastal allure of Varkala, and the cultural richness of Thrissur, Kerala promises a journey filled with unforgettable experiences and breathtaking landscapes.",
+    "imageCover": "tour-5-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2965",
+        "description": "Munnar",
+        "type": "Point",
+        "coordinates": [77.066173, 10.086881],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2964",
+        "description": "Kochi (Cochin)",
+        "type": "Point",
+        "coordinates": [76.251134, 9.935175],
+        "day": 4
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2963",
+        "description": "Wayanad",
+        "type": "Point",
+        "coordinates": [76.082285, 11.702909],
+        "day": 5
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2968",
+        "description": "Varkala",
+        "type": "Point",
+        "coordinates": [76.718211, 8.738249],
+        "day": 8
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2969",
+        "description": "Thrissur ",
+        "type": "Point",
+        "coordinates": [76.214341, 10.526883],
+        "day": 10
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Mumbai, Maharashtra",
+      "type": "Point",
+      "coordinates": [72.8743018409734, 19.091910948237473],
+      "address": "Mumbai, Maharashtra"
+    },
+    "ratingsAverage": 4.6,
+    "ratingsQuantity": 5,
+    "images": ["tour-4-1.jpg", "tour-4-2.jpg", "tour-4-3.jpg"],
+    "startDates": [
+      "2024-03-11T10:00:00.000Z",
+      "2024-05-02T09:00:00.000Z",
+      "2024-07-09T09:00:00.000Z",
+      "2024-09-09T09:00:00.000Z",
+      "2024-10-09T09:00:00.000Z",
+      "2024-12-09T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c295d",
+    "name": "Mumbai Darshan",
+    "duration": 9,
+    "maxGroupSize": 20,
+    "difficulty": "medium",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a201e2f8fb814b56fa186"],
+    "price": 4099,
+    "summary": "Living the life of Wanderlust in the most beatiful city",
+    "description": "Embark on an enchanting tour of Mumbai, India's bustling metropolis known for its vibrant culture, rich history, and iconic landmarks. Begin your journey at the majestic Gateway of India, a symbol of Mumbai's grandeur and colonial legacy. Admire the imposing architecture and panoramic views of the Arabian Sea, soaking in the bustling energy of this historic monument. Next, head to the picturesque Juhu Beach, a beloved spot for locals and tourists alike. Stroll along the golden sands, savor local street food delicacies, and witness captivating sunsets over the Arabian Sea.\n Continue your exploration with a drive along Marine Drive, also known as the Queen's Necklace, a scenic promenade overlooking the sea. Marvel at the art deco architecture, bustling promenades, and vibrant atmosphere that define Mumbai's coastal charm. Delve into spirituality at the Shri Siddhivinayak Temple, a revered Hindu shrine dedicated to Lord Ganesha. Experience the divine aura, intricate architecture, and spiritual devotion that permeate this sacred site, offering a serene escape amidst the city's hustle and bustle.\n Immerse yourself in the glitz and glamour of Bollywood at Film City, the heart of India's film industry. Explore the sets, studios, and behind-the-scenes magic of Bollywood movies, gaining insight into the fascinating world of Indian cinema. Conclude your tour with a visit to the Elephanta Caves, a UNESCO World Heritage Site renowned for its ancient rock-cut temples dedicated to Lord Shiva. Explore the intricate carvings, stunning sculptures, and spiritual significance of this historic site, uncovering Mumbai's rich cultural heritage and architectural marvels along the way.",
+    "imageCover": "tour-4-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2960",
+        "description": "Gateway of India",
+        "type": "Point",
+        "coordinates": [72.834753, 18.921943],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2954",
+        "description": "Marine Drive",
+        "type": "Point",
+        "coordinates": [72.822752, 18.943211],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2959",
+        "description": "Shri Siddhivinayak Temple",
+        "type": "Point",
+        "coordinates": [72.82862, 18.952973],
+        "day": 5
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2950",
+        "description": "Elephanta Caves",
+        "type": "Point",
+        "coordinates": [72.933981, 18.967704],
+        "day": 7
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2956",
+        "description": "Film City",
+        "type": "Point",
+        "coordinates": [72.814436, 18.972936],
+        "day": 8
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2951",
+        "description": "Juhu beach",
+        "type": "Point",
+        "coordinates": [72.826432, 19.097228],
+        "day": 10
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Goa",
+      "type": "Point",
+      "coordinates": [74.0059340814832, 15.402451808827822],
+      "address": "Goa, India"
+    },
+    "ratingsAverage": 4.9,
+    "ratingsQuantity": 7,
+    "images": ["tour-6-1.jpg", "tour-6-2.jpg", "tour-6-3.jpg"],
+    "startDates": [
+      "2024-07-19T09:00:00.000Z",
+      "2024-09-06T09:00:00.000Z",
+      "2025-03-18T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2966",
+    "name": "Go Goa Gone",
+    "duration": 14,
+    "maxGroupSize": 8,
+    "difficulty": "medium",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a1f292f8fb814b56fa184",
+      "5c8a1f4e2f8fb814b56fa185"
+    ],
+    "price": 2997,
+    "summary": "Surfing, skating, parajumping, and more, all in one tour",
+    "description": "Explore the vibrant tapestry of Goa, a coastal paradise nestled along the Arabian Sea. Your journey begins at Palolem Beach, a serene crescent-shaped shoreline bordered by palm trees and turquoise waters. Dive into thrilling water sports or unwind on the soft sands as the gentle sea breeze soothes your senses. As the day transitions, head to Calangute Beach, known as the 'Queen of Beaches', for its lively atmosphere, beachside shacks, and vibrant nightlife. Indulge in fresh seafood delicacies and soak in the electrifying energy of this popular destination.\n Venture further south to Agonda Beach, a hidden gem offering tranquility and pristine beauty. Here, the serene ambiance invites you to relax, rejuvenate, and admire the stunning coastal scenery. As the sun sets, embark on a cultural journey to Cabo de Rama Fort, a historic Portuguese fort perched atop a cliff. Marvel at panoramic views of the Arabian Sea and immerse yourself in tales of Goa's rich heritage.\n Continue your exploration with a visit to Dudhsagar Waterfalls, a mesmerizing cascade nestled amidst lush forests. The thundering waters and verdant surroundings create a captivating spectacle, ideal for nature lovers and adventure enthusiasts. Conclude your tour with a visit to the Basilica of Bom Jesus, a UNESCO World Heritage Site and a symbol of Goa's colonial past. Admire the exquisite architecture, including the preserved body of St. Francis Xavier, and delve into the region's religious and historical significance. With its diverse landscapes, cultural treasures, and captivating experiences, Goa promises an unforgettable journey filled with memories to cherish.",
+    "imageCover": "tour-6-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c296b",
+        "description": "Palolem Beach",
+        "type": "Point",
+        "coordinates": [74.024074, 15.009539],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2969",
+        "description": "Cabo de Rama Fort",
+        "type": "Point",
+        "coordinates": [73.921368, 15.088702],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296a",
+        "description": "Calangute Beach",
+        "type": "Point",
+        "coordinates": [73.754719, 15.544023],
+        "day": 5
+      },
+
+      {
+        "_id": "5c88fa8cf4afda39709c2968",
+        "description": "Basilica of Bom Jesus",
+        "type": "Point",
+        "coordinates": [73.911853, 15.500537],
+        "day": 7
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2967",
+        "description": "Dudhsagar Waterfalls",
+        "type": "Point",
+        "coordinates": [74.314468, 15.314396],
+        "day": 10
+      }
+    ]
+  }
+]

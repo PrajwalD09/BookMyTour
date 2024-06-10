@@ -7,12 +7,12 @@ node_modules
 *.js
 *.png
 # *.svg
-*.json
+# *.json
 *.jpg
 # *.pug
 dev-data/img
-routes
-utils
+# routes
+# utils
 # views
 # *.css
 
