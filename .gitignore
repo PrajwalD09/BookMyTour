@@ -5,7 +5,7 @@ node_modules
 .parcel-cache/
 
 *.js
-*.png
+# *.png
 # *.svg
 # *.json
 *.jpg
